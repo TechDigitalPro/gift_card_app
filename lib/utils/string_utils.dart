@@ -1,0 +1,64 @@
+
+class StringUtils {
+  static const txtAppName = 'Gift Card';
+  static const txtAppQR = 'gift_card';
+  static const txtBack = 'Back';
+  static const txtNext = 'Next';
+  static const txtApply = 'Apply';
+  static const txtDone = 'Done';
+  static const txtLater = 'Later';
+  static const txtGetStarted = 'Get Started';
+  static const txtDoThis = 'Let\'s do this';
+  static const txtStartScanning = 'Start scanning';
+  static const txtWarning = 'Warning !';
+  static const txtError = 'Error';
+  static const txtConfirm = 'Confirm';
+  static const txtSelect = 'Select';
+  static const txtDelete = 'Delete';
+  static const txtOk = 'Ok';
+  static const txtDescription = 'Description';
+  static const txtResume = 'Resume';
+  static const txtSave = 'Save';
+  static const txtYes = 'Yes';
+  static const txtNo = 'No';
+  static const txtCancel = 'Cancel';
+  static const txtExit = 'Exit';
+  static const txtSkip = 'Skip';
+  static const txtSend = 'Send';
+  static const txtShare = 'Share';
+  static const txtWelcome = 'Welcome';
+  static const txtDoYouWantToExit = 'Do you want to exit?';
+  static const txtLogin = 'Login';
+  static const txtPleaseEnterFirstName = 'Please enter first name';
+  static const txtPleaseEnterLastName = 'Please enter last name';
+  static const txtPleaseEnterEmail = 'Please enter email';
+  static const txtPleaseEnterPassword = 'Please enter password';
+  static const txtOpsSomethingWentWrong = 'Ops, something went wrong';
+  static const txtEmail = 'Email';
+  static const txtPassword = 'Password';
+  static const txtConfirmPassword = 'Confirm Password';
+  static const txtForgotPassword = 'Forgot password';
+  static const txtRegister = 'Register';
+  static const txtAreYouNotMember = 'Are you not a member yet?';
+  static const txtPasswordNotMatching = 'Password is not matching';
+  static const txtBackToLogin = 'Back to login';
+  static const txtResetPasswordLinkSent = 'Reset password link is sent to your email';
+  static const txtScanQRCode = 'Scan QRCode';
+  static const txtPayNow = 'Pay Now';
+  static const txtTryAgain = 'Try again';
+  static const txtReceipt = 'Receipt';
+  static const txtQRCodeIsNotCorrectFormat = 'QRCode is not correct format';
+  static const txtPointBalance = 'Point Balance';
+  static const txtAccountBalance = 'Account Balance';
+  static const txtEarnedPoint = 'Earned Point';
+  static const txtStartingBalance = 'Starting Balance';
+  static const txtDebit = 'Debit';
+  static const txtNewBalance = 'New Balance';
+  static const txtAmountDue = 'Amount Due';
+  static const txtSymbolUSD = '\$';
+  static const txtBalanceNotEnough = 'Your balance is not enough';
+  static const txtFirstName = 'First name';
+  static const txtLastName = 'Last name';
+
+
+}
